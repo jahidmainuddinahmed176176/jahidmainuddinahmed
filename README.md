@@ -64,16 +64,6 @@
 
 ---
 
-## 📌 Featured Projects
-
-| Project | Tech Stack | Live Demo |
-|---------|------------|-----------|
-| **Bangladesh Tourism** | React, .NET, PostgreSQL | [Live](https://bangladesh-tourism.netlify.app) |
-| **Weather Map** | Next.js, TypeScript, Leaflet | [Live](https://weather-map.vercel.app) |
-| **Connect Pure Joy** | TanStack, Supabase, Prisma | [Live](https://connect-pure-joy.vercel.app) |
-
----
-
 <p align="center">
 ✨ <i>Precision • Performance • Continuous Growth</i> ✨
 </p>
